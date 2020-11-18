@@ -1,0 +1,14 @@
+
+<suite name="Online Shopping  ">
+
+  <test name="Web Shopping ">
+    <classes>
+      <class name="Test_Cases.WebShop_Login_Test_Cases"></class>
+      <class name="Test_Cases.WebShop_Add_To_Cart_Test_Cases"></class>
+      <class name="Test_Cases.WebShop_Price_Verfication_Test_Case"></class>
+      <class name="Test_Cases.WebShop_Address_Shipment_Test_Cases"></class>
+      <class name="Test_Cases.WebShop_Payment_TestCase"></class>
+    </classes>
+  </test> 
+</suite> 
+

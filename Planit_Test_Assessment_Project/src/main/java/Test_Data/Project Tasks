@@ -1,0 +1,22 @@
+     Navigate to URL : http://demowebshop.tricentis.com/      
+      Click on Login button
+     Validate “Welcome, Please Sign In!” message    
+      Log in with given credentials
+      Validate the user account ID on top right
+      Clear the shopping cart.
+      Select “Books” from Categories
+      Select a book from the list displayed
+      Get the price details and enter the quantity (more than one)
+   Click on “Add to cart”
+   Validate “The product has been added to shopping cart” message
+   Click on “shopping cart” on top right and validate the “Sub-Total” Price for selected book.
+   Click on “Check-out”
+   Select “New Address” From “Billing Address” drop down.
+   Fill all mandatory fields in “Billing Address” and click “Continue”
+   Select the “Shipping Address” as same as “Billing Address” from “Shipping Address” drop down and click on “Continue”.
+   Select the shipping method as “Next Day Air” and click on “Continue”
+   Choose the payment method as COD (Cash on delivery) and click on “Continue”
+   Validate the message “You will pay by COD” and click on “Continue”
+   Click on “Confirm Order”
+      Validate the message “Your order has been successfully processed!” and print the Order number
+   Click on “Continue” and log out from the application 

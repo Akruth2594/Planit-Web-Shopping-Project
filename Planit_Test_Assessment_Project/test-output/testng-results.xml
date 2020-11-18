@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Online Shopping  " duration-ms="69096" started-at="2020-11-18T15:06:29Z" finished-at="2020-11-18T15:07:38Z">
+    <groups>
+    </groups>
+    <test name="Web Shopping " duration-ms="69096" started-at="2020-11-18T15:06:29Z" finished-at="2020-11-18T15:07:38Z">
+      <class name="Test_Cases.WebShop_Add_To_Cart_Test_Cases">
+        <test-method status="PASS" signature="AddToCard()[pri:0, instance:Test_Cases.WebShop_Add_To_Cart_Test_Cases@1b0375b3]" name="AddToCard" duration-ms="14350" started-at="2020-11-18T20:36:57Z" finished-at="2020-11-18T20:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCard -->
+      </class> <!-- Test_Cases.WebShop_Add_To_Cart_Test_Cases -->
+      <class name="Test_Cases.WebShop_Address_Shipment_Test_Cases">
+        <test-method status="PASS" signature="AddressofDeleivery()[pri:0, instance:Test_Cases.WebShop_Address_Shipment_Test_Cases@2d209079]" name="AddressofDeleivery" duration-ms="7381" started-at="2020-11-18T20:37:15Z" finished-at="2020-11-18T20:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddressofDeleivery -->
+      </class> <!-- Test_Cases.WebShop_Address_Shipment_Test_Cases -->
+      <class name="Test_Cases.WebShop_Payment_TestCase">
+        <test-method status="PASS" signature="Payment()[pri:0, instance:Test_Cases.WebShop_Payment_TestCase@6bdf28bb]" name="Payment" duration-ms="14673" started-at="2020-11-18T20:37:23Z" finished-at="2020-11-18T20:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payment -->
+      </class> <!-- Test_Cases.WebShop_Payment_TestCase -->
+      <class name="Test_Cases.WebShop_Login_Test_Cases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test_Cases.WebShop_Login_Test_Cases@45c8e616]" name="setup" is-config="true" duration-ms="11598" started-at="2020-11-18T20:36:29Z" finished-at="2020-11-18T20:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginText()[pri:0, instance:Test_Cases.WebShop_Login_Test_Cases@45c8e616]" name="LoginText" duration-ms="16107" started-at="2020-11-18T20:36:41Z" finished-at="2020-11-18T20:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginText -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Test_Cases.WebShop_Login_Test_Cases@45c8e616]" name="Teardown" is-config="true" duration-ms="831" started-at="2020-11-18T20:37:38Z" finished-at="2020-11-18T20:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Test_Cases.WebShop_Login_Test_Cases -->
+      <class name="Test_Cases.WebShop_Price_Verfication_Test_Case">
+        <test-method status="PASS" signature="PriceVerfication()[pri:0, instance:Test_Cases.WebShop_Price_Verfication_Test_Case@2f7c7260]" name="PriceVerfication" duration-ms="4131" started-at="2020-11-18T20:37:11Z" finished-at="2020-11-18T20:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PriceVerfication -->
+      </class> <!-- Test_Cases.WebShop_Price_Verfication_Test_Case -->
+    </test> <!-- Web Shopping  -->
+  </suite> <!-- Online Shopping   -->
+</testng-results>

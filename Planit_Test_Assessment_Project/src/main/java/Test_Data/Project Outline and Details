@@ -1,0 +1,21 @@
+                                    Project Outline and Details
+
+> Used Java Language, POM , Maven , TestNg
+
+> Divided Given Taskes into POM pages 
+
+> In SRC/main created 4 packages Page Object , Pages (To store POM page ) , Test Data (To store Test Data , xlsx file ) , Utilities
+
+> Created Base Class which can be utilized all over the project in which I have given Common Web Broswer path and Waits
+
+> Split whole task into 5 modules :- Login module , Add to Cart Module , Price Verfication Module , Addresses Module and Payment Module
+
+> Created SRC/Test in that wrote Test Cases linked which is linked Pages 
+
+> Created properties file store the deatils of the project which is commonly usedin the platform 
+
+> Used Log4J in the project to generate the logs and Created Log4J and generated Log4j using Log4j2 properties file
+
+> Created a pom.xml File to store the Dependences (Selenium , Appachi Poy , Log 4j dependencies 
+
+> Created a XML file to trigger the test cases at a time 
